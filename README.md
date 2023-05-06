@@ -27,7 +27,7 @@ Please note.
 
 Top view, Bottom View, Installed with an M4 Card
 
-![ACUB03-01 Direct - Top 0300px](https://user-images.githubusercontent.com/68661647/236644749-cc42edb5-dda6-46bd-81d9-f5679cd5622f.jpg)![ACUB03-02 Direct - Bottom 0300px](https://user-images.githubusercontent.com/68661647/236644757-02aa8e3f-3bca-4e5d-ab04-c9f020f8f763.jpg)![ACUB03-03 Direct - M4 0300px](https://user-images.githubusercontent.com/68661647/236644770-6ca4bd79-fa9c-4ea4-b6ea-f8b971fc4b91.jpg)
+![ACUB03-01 Direct - Top 0250px](https://user-images.githubusercontent.com/68661647/236645966-68d4789b-f4f9-4ccf-b1c6-4392ce2b5636.jpg)![ACUB03-02 Direct - Bottom 0250px](https://user-images.githubusercontent.com/68661647/236645976-0f68b3fe-ff6c-4017-af9f-2db338988cec.jpg)![ACUB03-03 Direct - M4 0250px](https://user-images.githubusercontent.com/68661647/236645982-0cf11acc-0293-4b94-8a06-b5337f82d0c7.jpg)
 
 | Qty | Description of parts required|
 |---|---|
