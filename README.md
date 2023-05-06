@@ -2,7 +2,8 @@
 Various expansions for Amstrad CPC &amp; PCW computers
 1. Amstrad CPC 50way PCB Edge to Pin/Socket Header Convertor
 
-# 1. Amstrad CPC 50way PCB Edge to Pin/Socket Header Convertor
+## 1. Amstrad CPC 50way PCB Edge to Pin/Socket Header Convertor
+Work in progress.
 
 ![ACUB03 3 applications 2000px](https://user-images.githubusercontent.com/68661647/236634991-8129283f-8214-4b1c-b6e0-28337e1daea9.jpg)
 
