@@ -15,10 +15,17 @@ Please note.
 5. There are no electronic devices so these adaptors are easy to build.
 6. The tracks that carry 5V and Ground are as wide as possible to allow for the currents involved.
 
+![ACUB03 3 applications cropped 0300px](https://user-images.githubusercontent.com/68661647/236644518-c4704707-1bbb-412e-8b36-ce4ea67a2afd.jpg)
+
 |Config No|Description|Notes|
 |---|---|---|
 | 1 | Direct MX4 | Used where the card edge connector is parallel to it's card and will sit vertically |
 | 2 | Remote MX4 | Used where the card edge connector is at right angles to it's card or the card is bulky. A 50 way ribbon cable extension allows the card to be placed some distance from the MX4 connector. Can be used to connect the CPC464 Amstrad DDI-1 interface to an MX4 expansion backplane. |
 | 3 | Remote to MX4 'through' | Uses the through connector on an expansion backplane as a card connector. Same user case as 2 but uses a female instead of a male connector. |
 
-![ACUB03 3 applications 0250px](https://user-images.githubusercontent.com/68661647/236635747-ab5e9f36-edd2-40aa-b03e-083d48ff2409.jpg)
+Direct MX4.
+Top view, Bottom View, Installed with an M4 Card
+
+![ACUB03-01 Direct - Top 0300px](https://user-images.githubusercontent.com/68661647/236644749-cc42edb5-dda6-46bd-81d9-f5679cd5622f.jpg)![ACUB03-02 Direct - Bottom 0300px](https://user-images.githubusercontent.com/68661647/236644757-02aa8e3f-3bca-4e5d-ab04-c9f020f8f763.jpg)![ACUB03-03 Direct - M4 0300px](https://user-images.githubusercontent.com/68661647/236644770-6ca4bd79-fa9c-4ea4-b6ea-f8b971fc4b91.jpg)
+
+
