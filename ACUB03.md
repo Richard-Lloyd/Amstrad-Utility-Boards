@@ -39,3 +39,4 @@ Build instructions. Place the box header connector on side 'A' of the PCB. Ensur
 
 Top view, Bottom View, Installed with
 
+![ACUB03-04 Remote - Top 0250px](https://user-images.githubusercontent.com/68661647/236801858-bf6a7499-16be-402d-bd9a-43dfbea2d7d7.jpg)![ACUB03-05 Remote - Bottom 0250px](https://user-images.githubusercontent.com/68661647/236801885-0dc35cd9-6af1-4590-b615-7658b8798d46.jpg)![ACUB03-06 Remote - DDI-1 0250px](https://user-images.githubusercontent.com/68661647/236801919-3eab38f5-8e79-4e69-8559-1dfed11ef897.jpg)
