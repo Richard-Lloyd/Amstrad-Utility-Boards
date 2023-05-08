@@ -37,6 +37,9 @@ Build instructions. Place the box header connector on side 'A' of the PCB. Ensur
 
 ***Configuration 2 - Remote MX4.***
 
-Top view, Bottom View, Installed with
+Top view, Bottom View, Installed with Amstrad CPC464 DDI-1 disc interface lying 'flat'.
 
 ![ACUB03-04 Remote - Top 0250px](https://user-images.githubusercontent.com/68661647/236801858-bf6a7499-16be-402d-bd9a-43dfbea2d7d7.jpg)![ACUB03-05 Remote - Bottom 0250px](https://user-images.githubusercontent.com/68661647/236801885-0dc35cd9-6af1-4590-b615-7658b8798d46.jpg)![ACUB03-06 Remote - DDI-1 0250px](https://user-images.githubusercontent.com/68661647/236801919-3eab38f5-8e79-4e69-8559-1dfed11ef897.jpg)
+
+This configuration allows PCB Edge cards to connect to a backplane expander using a ribbon cable. It is advised to keep the ribbon cable as short as possible. In the photo above, it is shown connecting a DDI-1 disc interface to a backplane expander on a CPC464. This particular interface is bulky and does not have a through connector so connecting it to the rearmost MX4 connection allows it to lie flat on the desk and keep the ribbon cable short. The ribbon cable also provides some isolation from movement of the backplane expander. Trying to connect the DDI-1 to the through edge connector on the expansion card is problematic as the card and interface have to be securely supported.
+
