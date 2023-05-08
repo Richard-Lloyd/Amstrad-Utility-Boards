@@ -19,7 +19,7 @@ Please note.
 | 2 | Remote MX4 | Used where the card edge connector is at right angles to it's card or the card is bulky. A 50 way ribbon cable extension allows the card to be placed some distance from the MX4 connector. Can be used to connect the CPC464 Amstrad DDI-1 interface to an MX4 expansion backplane. |
 | 3 | Remote to MX4 'through' | Uses the through connector on an expansion backplane as a card connector. Same user case as 2 but uses a female instead of a male connector. |
 
-***Direct MX4.***
+***Configuration 1 - Direct MX4.***
 
 Top view, Bottom View, Installed with an M4 Card
 
@@ -29,6 +29,7 @@ Top view, Bottom View, Installed with an M4 Card
 |---|---|
 | 1 | PCB |
 | 1 |Boxed Connector Header, Through Hole, Right Angle 50 position 0.100" (2.54mm) such as Digikey 3M157291-ND [here](https://www.digikey.co.uk/en/products/detail/3m/30350-5002HB/1237406?s=N4IgTCBcDaIMwFkCMBWA7GAnEgtAOQBEQBdAXyA) |
+
 Build instructions. Place the box header connector on side 'A' of the PCB. Ensure that it is square with the board and solder on side 'B'. First solder the two end pins on one row and adjust the orientation of the connector if necessary. Solder the rest of the pins when you are happy.
 
 
